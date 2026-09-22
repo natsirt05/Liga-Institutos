@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://ligainstitutos.ehuler.eus/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ligainstitutos.ehuler.eus/es/index.html" />
+    <xhtml:link rel="alternate" hreflang="eu" href="https://ligainstitutos.ehuler.eus/eu/index.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ligainstitutos.ehuler.eus/" />
+  </url>
+  <url>
+    <loc>https://ligainstitutos.ehuler.eus/es/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ligainstitutos.ehuler.eus/es/index.html" />
+    <xhtml:link rel="alternate" hreflang="eu" href="https://ligainstitutos.ehuler.eus/eu/index.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ligainstitutos.ehuler.eus/" />
+  </url>
+  <url>
+    <loc>https://ligainstitutos.ehuler.eus/eu/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ligainstitutos.ehuler.eus/es/index.html" />
+    <xhtml:link rel="alternate" hreflang="eu" href="https://ligainstitutos.ehuler.eus/eu/index.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ligainstitutos.ehuler.eus/" />
+  </url>
+  <url>
+    <loc>https://ligainstitutos.ehuler.eus/es/liga.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ligainstitutos.ehuler.eus/es/liga.html" />
+    <xhtml:link rel="alternate" hreflang="eu" href="https://ligainstitutos.ehuler.eus/eu/liga.html" />
+  </url>
+  <url>
+    <loc>https://ligainstitutos.ehuler.eus/eu/liga.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ligainstitutos.ehuler.eus/es/liga.html" />
+    <xhtml:link rel="alternate" hreflang="eu" href="https://ligainstitutos.ehuler.eus/eu/liga.html" />
+  </url>
+  <url>
+    <loc>https://ligainstitutos.ehuler.eus/es/participa.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ligainstitutos.ehuler.eus/es/participa.html" />
+    <xhtml:link rel="alternate" hreflang="eu" href="https://ligainstitutos.ehuler.eus/eu/participa.html" />
+  </url>
+  <url>
+    <loc>https://ligainstitutos.ehuler.eus/eu/participa.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ligainstitutos.ehuler.eus/es/participa.html" />
+    <xhtml:link rel="alternate" hreflang="eu" href="https://ligainstitutos.ehuler.eus/eu/participa.html" />
+  </url>
+  <url>
+    <loc>https://ligainstitutos.ehuler.eus/es/partidos.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ligainstitutos.ehuler.eus/es/partidos.html" />
+    <xhtml:link rel="alternate" hreflang="eu" href="https://ligainstitutos.ehuler.eus/eu/partidos.html" />
+  </url>
+  <url>
+    <loc>https://ligainstitutos.ehuler.eus/eu/partidos.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ligainstitutos.ehuler.eus/es/partidos.html" />
+    <xhtml:link rel="alternate" hreflang="eu" href="https://ligainstitutos.ehuler.eus/eu/partidos.html" />
+  </url>
+  <url>
+    <loc>https://ligainstitutos.ehuler.eus/es/talleres.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ligainstitutos.ehuler.eus/es/talleres.html" />
+    <xhtml:link rel="alternate" hreflang="eu" href="https://ligainstitutos.ehuler.eus/eu/talleres.html" />
+  </url>
+  <url>
+    <loc>https://ligainstitutos.ehuler.eus/eu/talleres.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ligainstitutos.ehuler.eus/es/talleres.html" />
+    <xhtml:link rel="alternate" hreflang="eu" href="https://ligainstitutos.ehuler.eus/eu/talleres.html" />
+  </url>
+  <url>
+    <loc>https://ligainstitutos.ehuler.eus/es/calendario.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ligainstitutos.ehuler.eus/es/calendario.html" />
+    <xhtml:link rel="alternate" hreflang="eu" href="https://ligainstitutos.ehuler.eus/eu/calendario.html" />
+  </url>
+  <url>
+    <loc>https://ligainstitutos.ehuler.eus/eu/calendario.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ligainstitutos.ehuler.eus/es/calendario.html" />
+    <xhtml:link rel="alternate" hreflang="eu" href="https://ligainstitutos.ehuler.eus/eu/calendario.html" />
+  </url>
+  <url>
+    <loc>https://ligainstitutos.ehuler.eus/es/contacto.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ligainstitutos.ehuler.eus/es/contacto.html" />
+    <xhtml:link rel="alternate" hreflang="eu" href="https://ligainstitutos.ehuler.eus/eu/contacto.html" />
+  </url>
+  <url>
+    <loc>https://ligainstitutos.ehuler.eus/eu/contacto.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ligainstitutos.ehuler.eus/es/contacto.html" />
+    <xhtml:link rel="alternate" hreflang="eu" href="https://ligainstitutos.ehuler.eus/eu/contacto.html" />
+  </url>
+</urlset>
